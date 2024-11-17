@@ -20,7 +20,7 @@ Lamine Yamal's Euro 2024 performance is analysed in [`euro2024-statsbomb-yamal.i
 
 ### Scouting for a GK transfer target for Arsenal in summer 2018
 
-> [!NOTE]  
+> [!NOTE]
 > The code for this notebook is in the process of being refined and will be uploaded shortly.
 
 The analysis in [`arsenal-summer-2018-gk.ipynb`](wyscout-top5-leagues-2017-2018/arsenal-summer-2018-gk.ipynb) is concerned with finding possible Arsenal transfer targets for the goalkeeper position, from the perspective of the beginning of summer 2018. It is conducted with respect to Wyscout [event data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5) for the top 5 leagues from 2017/2018.
@@ -37,6 +37,7 @@ The analysis presented in [`off-ball-runs.ipynb`](off-ball-runs-uefa-cl-final-20
 
 ### Fantasy Premier League 2024/2025 pre-season analysis
 
+> [!NOTE]
 > The code for the dashboard is in the process of being refined and will be uploaded shortly.
 
 This is an example of a recent analysis I performed as a side project for fun, with the intention to eventually share it with the world, after a bit more polishing. It is a Streamlit app which enables flexible visualisaions of Fantasy Premier League summary data.
