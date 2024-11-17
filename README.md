@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This sample of analyses consists of Jupyter notebooks, which themselves are structured such that there is a narrative &mdash; supplemented with plots &mdash; at the very top, and the code for analysing the data and producing the figures follows afterwards, in the same notebook.
+This sample of analyses consists of Jupyter notebooks and articles. The notebooks are structured such that there is a narrative &mdash; supplemented with plots &mdash; at the very top, and the code for analysing the data and producing the figures follows afterwards, in the same notebook.
 
 ## Soccermatics course assignments
 
@@ -39,7 +39,7 @@ The analysis presented in [`off-ball-runs.ipynb`](off-ball-runs-uefa-cl-final-20
 
 > The code for the dashboard is in the process of being refined and will be uploaded shortly.
 
-[`fpl-2024-pre-season-analysis.ipynb`](fpl-2023/fpl-2024-pre-season-analysis.ipynb) is an example of a relatively recent analysis I performed as a side project for fun, with the intention to eventually share it with the world, after a bit more polishing. It is a Streamlit app which enables flexible visualisaions of Fantasy Premier League summary data.
+This is an example of a recent analysis I performed as a side project for fun, with the intention to eventually share it with the world, after a bit more polishing. It is a Streamlit app which enables flexible visualisaions of Fantasy Premier League summary data.
 
 ### Fantasy Premier League 2016/2017 analysis
 
