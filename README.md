@@ -23,7 +23,7 @@ Lamine Yamal's Euro 2024 performance is analysed in [`euro2024-statsbomb-yamal.i
 > [!NOTE]
 > The code for this notebook is in the process of being refined and will be uploaded shortly.
 
-The analysis in [`arsenal-summer-2018-gk.ipynb`](wyscout-top5-leagues-2017-2018/arsenal-summer-2018-gk.ipynb) is concerned with finding possible Arsenal transfer targets for the goalkeeper position, from the perspective of the beginning of summer 2018. It is conducted with respect to Wyscout [event data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5) for the top 5 leagues from 2017/2018.
+The analysis in [`arsenal-2018-gk-scouting.ipynb`](wyscout-top5-leagues-2017-2018/arsenal-2018-gk-scouting.ipynb) is concerned with finding possible Arsenal transfer targets for the goalkeeper position, from the perspective of the beginning of summer 2018. It is conducted with respect to Wyscout [event data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5) for the top 5 leagues from 2017/2018.
 
 ![Post-shot expected vs actual goals conceded from play per 90 mins](wyscout-top5-leagues-2017-2018/psxg_ga_p90.png "Post-shot expected vs actual goals conceded from play per 90 mins")
 
